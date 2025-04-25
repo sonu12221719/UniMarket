@@ -1,3 +1,3 @@
 # UniMarket
 
-![UniMarket Preview](./assets/unimarket-preview.png)
+![UniMarket Preview](./unimarket-ss.png)
